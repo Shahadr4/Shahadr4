@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHAHAD RAHMAN</h1>
-<h3 align="center">💞️ I’m interested in Open Source Development 
-  👀I’m looking to collaborate on interesting projects 
+<h3 align="center">💞️ I’m interested in Open Source Development <br>
+  👀I’m looking to collaborate on interesting projects <br>
   👨‍💻 currently working on my own projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadr4&label=Profile%20views&color=0e75b6&style=flat" alt="shahadr4" /> </p>
