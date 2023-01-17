@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHAHAD RAHMAN</h1>
-<h3 align="center">💞️ I’m interested in Open Source Development <br>
+<h3 >💞️ I’m interested in Open Source Development <br>
   👀I’m looking to collaborate on interesting projects <br>
   👨‍💻 currently working on my own projects</h3>
 
